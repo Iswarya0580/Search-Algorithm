@@ -114,6 +114,7 @@ else:
     
 ```
 ## Sample Input and Output
+
 i)
 ![Alt text](<linear search sample-1.png>)
 
