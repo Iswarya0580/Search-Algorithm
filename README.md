@@ -114,16 +114,21 @@ else:
     
 ```
 ## Sample Input and Output
-i)![Alt text](<linear search sample-1.png>)
-ii)![Alt text](<iterative method-sample-1.png>)
-iii)![Alt text](<recursive method-sample-1.png>)
+i)
+![Alt text](<linear search sample-1.png>)
+ii)
+![Alt text](<iterative method-sample-1.png>)
+iii)
+![Alt text](<recursive method-sample-1.png>)
+
+
 ## output
 i)
 ![Alt text](<linear search-1.png>)
 ii)
 ![Alt text](<binary search-iterative-1.png>)
 iii)
- ![Alt text](<binary search-recursive-1.png>)
+![Alt text](<binary search-recursive-1.png>)
 
 
 
